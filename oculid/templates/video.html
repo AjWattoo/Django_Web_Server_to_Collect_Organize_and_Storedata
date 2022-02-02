@@ -1,0 +1,10 @@
+<h1>enter the following</h1>
+
+<h2>{{ note }}</h2>
+
+
+<form method="POST" >
+    {% csrf_token %}
+    {{ video_Registrationform }}
+    <input type="submit" value="Enter">
+</form>
