@@ -2,7 +2,7 @@
 
 # Introduction
 
-I build a web server to efficiently collect and organise data. In this project i used Python module `Django` to structure the project. This solution provide you to load the localy saved data easily to the server and also through APIs new data can be inject into the database.
+I build a web server to efficiently collect and organise data. In this project i used Python module `Django` to structure the project. This solution provide you to load the localy saved data easily to the server and also through APIs new data can be inject into the database. When tester upload the testing image it will convert that image into base64 and save it into database. All of the infomation for tester,picx and videos can be obtained from tester `test_id`.
 
 ## Prerequisites
 
