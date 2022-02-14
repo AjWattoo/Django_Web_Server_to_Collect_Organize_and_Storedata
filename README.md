@@ -1,4 +1,4 @@
-# Oculid Backend Engineering Challenge
+# Backend Engineering Challenge
 
 # Introduction
 
